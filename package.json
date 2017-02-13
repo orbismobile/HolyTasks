@@ -1,0 +1,16 @@
+{
+  "name": "HolyTasks",
+  "version": "0.0.1",
+  "description": "Different tasks for our mobile workflow",
+  "main": "index.js",
+  "scripts": {
+    "compress": "gulp compress",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik Flores",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-tinypng-compress" : "^1.2.1"
+  }
+}
